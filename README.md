@@ -11,7 +11,7 @@ Basically, it's like having your own AI assistant without paying for an expensiv
 
 And right now, it's completely FREE!
 
-✨ What's G-AI?
+✨ WHAT IS G-AI?
 
 The idea behind G-AI is pretty simple: I want to make an AI that people can actually use without having to pay a bunch of money.
 
@@ -19,7 +19,7 @@ It runs locally and has its own abilities to make it more than just a basic chat
 
 I'm still working on it, so expect things to change and improve over time!
 
-💸 Will G-AI Always Be Free?
+💸 WILL G-AI ALWAYS BE FREE?
 
 The core AI? YES.
 
@@ -34,7 +34,7 @@ Eventually, I want to give G-AI its own desktop environment. That takes time and
 
 But don't worry, I'm not planning on putting the actual local AI behind a paywall.
 
-🔮 What's Coming?
+🔮 WHAT'S COMING?
 
 One of my biggest plans is to eventually give G-AI its own desktop.
 
@@ -42,7 +42,7 @@ I think it'd be really cool to have an entire desktop experience built around G-
 
 There's still a lot to do, but that's the goal!
 
-🐛 Found a Bug? Have a Suggestion?
+🐛 FOUND A BUG? HAVE A SUGGESTION?
 PLEASE OPEN AN ISSUE!
 
 Seriously! If something isn't working, you have an idea for a feature, or you just want to suggest something, open an issue!
@@ -51,12 +51,12 @@ Seriously! If something isn't working, you have an idea for a feature, or you ju
 
 So don't be shy about leaving feedback. I actually want to know what people think and what needs fixing.
 
-❤️ Thanks for Checking Out G-AI!
+❤️ THANKS FOR CHECKING OUT G-AI!
 
 Whether you're using it, helping out, reporting bugs, or just checking out the project, thanks for being here!
 
 I'm just getting started, and there's a lot more I want to do with this project.
 
-Thanks for being part of G-AI! 🚀
+THANKS FOR BEING PART OF G-AI! 🚀
 
 </div>
