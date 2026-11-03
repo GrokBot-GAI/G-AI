@@ -97,3 +97,4 @@ I'm just getting started, and there's a lot more I want to do with this project.
 <h2>THANKS FOR BEING PART OF G-AI! 🚀</h2>
 
 </div>
+<img src="g-ai-logo-128-preview.png" width="300" alt="G-AI Logo">
