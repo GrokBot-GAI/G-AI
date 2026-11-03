@@ -1,26 +1,39 @@
-🤖 G-AI — Your Local AI, Your Rules.
+<div align="center">
 
-Welcome to G-AI! 🚀
+🤖 G-AI
+Your Local AI. Your Rules. Your Future.
 
-G-AI is a project designed to bring powerful AI capabilities directly to your local machine. Think of it like having your own personal Grok-style AI assistant, without the expensive subscriptions.
+A powerful, local AI assistant inspired by modern AI chatbots — without the expensive subscriptions.
 
-And the best part? It's FREE!
+![Free](https://img.shields.io/badge/Core%20AI-FREE-brightgreen?style=for-the-badge) ![Open Source](https://img.shields.io/badge/Project-Open%20Source-blue?style=for-the-badge)
+
+🚀 Welcome to G-AI!
+
+G-AI is a project designed to bring powerful AI capabilities directly to your local machine.
+
+Think of it like having your own personal Grok-style AI assistant, without the expensive subscriptions.
+
+And the best part? IT'S FREE!
 
 ✨ What is G-AI?
 
 G-AI aims to give you access to an AI assistant that can do many of the things you'd expect from a modern AI chatbot, while keeping things affordable, accessible, and local.
 
-My goal is simple: make powerful AI tools available to everyone without forcing people to pay expensive monthly subscriptions.
+My goal is simple:
+
+Make powerful AI tools available to everyone without forcing people to pay expensive monthly subscriptions.
 
 💸 Is G-AI Free?
+YES! Here's the plan:
+Feature	Cost
+🧠 Local AI & Capabilities	FREE FOREVER
+🛠️ Core AI Features	FREE FOREVER
+🖥️ Future Desktop Environment	May Cost
+🤝 Project Buddies Extras	May Cost
 
-YES! And here's the plan:
+To be completely clear:
 
-🆓 Local AI & Capabilities: Free to use, and always will be.
-🛠️ Future Development: I'm working toward giving G-AI its very own desktop environment.
-🤝 Project Buddies: Some future features and extras may come with a cost to help support development.
-
-To be completely clear: The core local AI experience and its abilities will ALWAYS remain free.
+The core local AI experience and its abilities will ALWAYS remain free.
 
 If you want the extra goodies, that's where Project Buddies comes in. Supporting the project will help make the bigger vision possible!
 
@@ -32,15 +45,18 @@ One of my bigger goals is to eventually give G-AI its own desktop experience, cr
 
 I want G-AI to grow into a complete AI experience that you can call your own.
 
-🐛 Found a Bug? Have an Idea?
+The goal? Your own AI. Your own desktop. Your own experience.
 
+🐛 Found a Bug? Have an Idea?
 PLEASE OPEN AN ISSUE!
 
-Seriously. Whether you've found a bug, have a feature request, or just have an idea that could make G-AI better, I want to hear about it.
+Whether you've found a bug, have a feature request, or just have an idea that could make G-AI better, I want to hear about it.
 
-🔥 Here's the deal: My G-AI bot checks GitHub issues EVERY SUNDAY!
+🔥 Here's the deal:
 
-That means your feedback won't just disappear into the void. Your suggestions and reports have a chance to be seen and considered.
+My G-AI bot checks GitHub issues EVERY SUNDAY!
+
+Your feedback won't just disappear into the void. Your suggestions and reports have a chance to be seen and considered.
 
 Don't be afraid to speak up. Every issue helps make G-AI better!
 
@@ -48,6 +64,8 @@ Don't be afraid to speak up. Every issue helps make G-AI better!
 
 Whether you're here to use it, contribute, report bugs, or just see what this project becomes, I'm glad you're here.
 
-Let's build something awesome together.
+Let's build something awesome together!
 
-🤖 G-AI — Powerful local AI. No expensive subscriptions. Built for everyone.
+🤖 G-AI — Powerful Local AI. No Expensive Subscriptions. Built for Everyone.
+
+</div>
