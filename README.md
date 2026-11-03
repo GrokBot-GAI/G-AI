@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="youtube-banner.png" width="160" alt="G-AI Logo">
+<img src="youtube-banner.png" width="1000" alt="G-AI Logo">
 
 <h2>Your Local AI. Your Rules.</h2>
 
