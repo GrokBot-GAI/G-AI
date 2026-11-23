@@ -13,7 +13,7 @@ G-AI is my project to create a local AI assistant that can do many of the things
 
 Basically, it's like having your own AI assistant without paying for an expensive subscription.
 
-And right now, it's completely FREE!
+Free to download and use. Source is visible but NOT open source. Copying, modifying or redistributing is prohibited. See LICENSE.
 
 <br>
 <br>
